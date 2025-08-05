@@ -15,9 +15,9 @@ It allows suppliers to sell stock, admins to manage inventory, and customers to 
 - ## Billing System
   - Auto-generates bills after sales and stores transaction history.
 
--##Purchase and Sales Tracking
+-## Purchase and Sales Tracking
   - Records every stock purchase with date, price, and supplier info.
   - Tracks all sales transactions linked to customers.
 
-- ##Smart Triggers
+- ## Smart Triggers
   - Automatically updates stock, total bill amount, and quantity after each transaction.
